@@ -9,7 +9,7 @@
 - [포카마켓 사용자의 검색 경험 개선]
 
 3️⃣ 미니 프로젝트
-- [로또 번호 예측]
+- [로또 번호 예측](https://github.com/better-noh/portfolio/tree/main/Where_is_My_lotto)
 
 </br>
 
