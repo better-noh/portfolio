@@ -1,9 +1,12 @@
-## 이커머스 데이터셋(Olist), 판매 물품 선정 가이드라인 분석
-__분석기간 :__ 23.01.09. - 23.01.13. (5일)
+## 이커머스 데이터셋(Olist), 타지역 거래 활성화 방안을 중심으로
 
-__분석인원 :__ 6인
+__성과 :__ 데이터톤 대상🏆 수상 (10개 팀 중 1위)
 
-__사용기술 :__ pandas, numpy, seaborn, matplotlib, plotly
+__프로젝트 기간 :__ 23.01.09. - 23.01.13. (5일) 
+
+- 분석 인원 : 6인팀 
+- 활용 데이터 : [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- 사용기술 : pandas, numpy, seaborn, matplotlib, plotly, geopandas
 
 __개요 :__ 
 
