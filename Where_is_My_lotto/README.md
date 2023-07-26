@@ -1,6 +1,7 @@
 ## (개인 프로젝트) 로또 번호 예측 분석 
 
-![](https://github.com/JiYoungGoGo/Data-project/blob/main/Lotto_analysis/image/lotto_1060.png?raw=true)
+![](https://github.com/better-noh/portfolio/blob/main/Where_is_My_lotto/img/winning.png?raw=true)
+
 
 __프로젝트 선정 이유 :__ 
 
