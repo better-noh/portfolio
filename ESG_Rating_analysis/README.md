@@ -1,6 +1,8 @@
 ## ESG 평가등급이 기업가치 측정 지표로 적절한지 분석
 __분석기간 :__ 22.10.19. - 22.10.24. (6일)
 
+__분석인원 :__ 5인
+
 __사용기술 :__ pandas, numpy, seaborn, matplotlib, beautifulsoup
 
 __개요 :__ 
