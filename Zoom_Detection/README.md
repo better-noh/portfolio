@@ -4,6 +4,8 @@
 
 __분석기간 :__ 22.12.22. - 22.01.05. (2주)
 
+__분석인원 :__ 5인
+
 __사용기술 :__ MediaPipe, OpenCV, FaceRecognition, YOLOv3-5-7, streamlit(webrtc,
 localtunnel, pyngrok)
 
