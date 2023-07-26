@@ -2,11 +2,10 @@
 
 <img src="./img/1.gif.gif" width=400>
 
-__분석기간 :__ 22.12.22. - 22.01.05. (2주)
-
-__분석인원 :__ 5인
-
-__사용기술 :__ MediaPipe, OpenCV, FaceRecognition, YOLOv3-5-7, streamlit(webrtc,
+__프로젝트 기간 :__ 22.12.22. - 22.01.05. (2주)
+- 분석인원 : 5인팀
+- 활용 데이터 : 직접 수집 (팀원들 줌 화면 캡처 및 영상 녹화)
+- 사용기술 : MediaPipe, OpenCV, FaceRecognition, YOLOv3-5-7, streamlit(webrtc,
 localtunnel, pyngrok)
 
 __개요 :__
