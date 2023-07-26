@@ -6,7 +6,7 @@
 
 #### 2️⃣ ML
 - [온라인 수강생의 자리비움 여부 탐지 모델링](https://github.com/better-noh/portfolio/tree/main/Zoom_Detection)
-- [포카마켓 사용자의 검색 경험 개선]
+- [포카마켓 사용자의 검색 경험 개선](https://github.com/better-noh/portfolio/tree/main/Phoka_SEO_analysis)
 
 #### 3️⃣ 미니 프로젝트 (진행 중)
 - [로또 번호 예측](https://github.com/better-noh/portfolio/tree/main/Where_is_My_lotto)
